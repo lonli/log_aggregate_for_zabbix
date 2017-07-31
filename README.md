@@ -1,6 +1,6 @@
 # log_aggregate_for_zabbix
 
-purpose: aggregate url staus from nginx log for zabbix monitor
+purpose: aggregate url classified response staus from nginx log for zabbix monitor
 
 ## make binary (require boost)
 clang++ -l boost_date_time log_report.cc -o log_report
