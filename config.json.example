@@ -1,0 +1,8 @@
+{
+    "log_file_name": "\/var\/log\/nginx\/access_datacollect.log",
+    "last_position": "3101241185",
+    "lock": "0",
+    "urls": [
+        "POST \/collect"
+    ]
+}

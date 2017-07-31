@@ -1,0 +1,2 @@
+UserParameter=nginx.log.requests, python3 /data/monit/discover.py /data/monit/config.json
+UserParameter=nginx.log.requests.status[*], python3 -c 'import json ; print(json.loads(open("/data/monit/log_stat.json", "rt").read())["'"$1"'"])'

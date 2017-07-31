@@ -1,0 +1,13 @@
+{
+    "ts": "2017-07-31T16:39",
+    "POST \/collect:1xx:cnt": "0",
+    "POST \/collect:1xx:avg": "0.00",
+    "POST \/collect:2xx:cnt": "16012",
+    "POST \/collect:2xx:avg": "22.73",
+    "POST \/collect:3xx:cnt": "0",
+    "POST \/collect:3xx:avg": "0.00",
+    "POST \/collect:4xx:cnt": "122",
+    "POST \/collect:4xx:avg": "29532.20",
+    "POST \/collect:5xx:cnt": "0",
+    "POST \/collect:5xx:avg": "0.00"
+}
